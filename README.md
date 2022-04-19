@@ -1,2 +1,2 @@
 # primeiro_repositorio_github
-Desafio_dio_github
+projeto_dio_github
