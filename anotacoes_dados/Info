@@ -1,0 +1,14 @@
+
+1 - link para instalação do git no Linux (https://git-scm.com/) e ou atualização do repositorio.
+
+Instalação via terminal versão Debian/Ubuntu:
+
+# apt update
+# apt install git
+
+
+Atualização do repositorio:
+
+# add-apt-repository ppa:git-core/ppa 
+# apt update
+# apt install git
